@@ -17,7 +17,7 @@
 # specific language governing permissions and limitations
 # under the License.
 # ----------------------------------------------------------------------------
-
+export JAVA_HOME=/usr/lib/jvm/java-11
 # ----------------------------------------------------------------------------
 # Maven Start Up Batch script
 #
